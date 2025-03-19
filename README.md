@@ -1,4 +1,4 @@
-This repository was created by Abdullah Ibrahim (contact me for any inquiries: Linkedin | 01027609744)
+This repository was created by Abdullah Ibrahim (contact me for any inquiries: [Linkedin](https://www.linkedin.com/in/abdullah1s1k/) | 01027609744)
 
 **Project Info:**
 
