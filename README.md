@@ -1,5 +1,8 @@
 This repository was created by Abdullah Ibrahim (**contact me** for any inquiries: [Linkedin](https://www.linkedin.com/in/abdullah1s1k/) | 01027609744)
 
+Note: We have not started executing the campaign yet,  
+but we have already completed the planning phase
+
 **Project Info:**
 
 - **DEPI Round 2 Graduation Project**
