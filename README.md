@@ -3,7 +3,7 @@ This repository was created by Abdullah Ibrahim (**contact me** for any inquirie
 **Note1:** We have not started executing the campaign yet,  
 but we have already completed the planning phase.
 
-**Note2:** Files related to the **execution phase**—such as performance metrics sheets, KPI reports,  
+**Note2:** Files related to the **execution phase**—such as performance metrics sheets, KPI reports, Data Analysis  
 social media content, and Canva designs—are currently in progress and will be added accordingly.
 
 **Disclaimer: Each team member is primarily responsible for their own work.**  
