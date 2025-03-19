@@ -3,7 +3,8 @@ This repository was created by Abdullah Ibrahim (**contact me** for any inquirie
 Note: We have not started executing the campaign yet,  
 but we have already completed the planning phase.
 
-Disclaimer: Each team member is primarily responsible for their own work.
+Disclaimer: Each team member is primarily responsible for their own work.  
+
 
 **Project Info:**
 
