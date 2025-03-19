@@ -1,3 +1,7 @@
+This Repo was created by Abdullah Ibrahim
+
+**Project Info:**
+
 - **DEPI Round 2 Graduation Project**
 
     Track: Digital Marketing Specialist  
