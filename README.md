@@ -6,6 +6,7 @@ but we have already completed the planning phase.
 **Note2:** Files related to the execution phase—such as performance metrics, KPI reports, social media content, and Canva designs—are currently in progress and will be added accordingly.
 
 **Disclaimer: Each team member is primarily responsible for their own work.**  
+For a detailed breakdown of individual contributions, please refer to the [Tasks Distribution PDF file](https://github.com/DEPI-Digital-Marketing-Project/DEPI-Digital-Marketing-Specialist-Track-Project-YAT435B-CAI2-DRT1-S5-DEPI2-Team1/blob/main/Tasks%20Distribution%20and%20Points%20Allocation.pdf). 
 
 
 **Project Info:**
