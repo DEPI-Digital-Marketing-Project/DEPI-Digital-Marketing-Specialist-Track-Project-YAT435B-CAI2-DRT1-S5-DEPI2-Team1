@@ -1,7 +1,9 @@
 This repository was created by Abdullah Ibrahim (**contact me** for any inquiries: [Linkedin](https://www.linkedin.com/in/abdullah1s1k/) | 01027609744)
 
-Note: We have not started executing the campaign yet,  
+**Note1:** We have not started executing the campaign yet,  
 but we have already completed the planning phase.
+
+**Note2:** Files related to the execution phase—such as performance metrics, KPIs, social media posts, and Canva designs—are currently in progress and will be added accordingly.
 
 **Disclaimer: Each team member is primarily responsible for their own work.**  
 
