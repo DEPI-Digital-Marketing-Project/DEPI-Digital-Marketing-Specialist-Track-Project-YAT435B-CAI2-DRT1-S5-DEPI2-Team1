@@ -8,7 +8,7 @@ but we have already completed the planning phase.
 
 **Project Info:**
 
-- **DEPI Round 2 Graduation Project**
+- **DEPI Round 2 Graduation Project:**
 
     Track: Digital Marketing Specialist  
     Group: YAT435B_CAI2_DRT1_S5_DEPI2  
