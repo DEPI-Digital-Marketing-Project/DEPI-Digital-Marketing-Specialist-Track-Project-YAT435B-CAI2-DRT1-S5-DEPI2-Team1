@@ -1,4 +1,4 @@
-This Repo was created by Abdullah Ibrahim
+This repository was created by Abdullah Ibrahim
 
 **Project Info:**
 
