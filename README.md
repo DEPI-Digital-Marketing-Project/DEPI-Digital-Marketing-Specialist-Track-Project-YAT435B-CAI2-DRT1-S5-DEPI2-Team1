@@ -8,7 +8,8 @@
   - **Group:** YAT435B_CAI2_DRT1_S5_DEPI2
   - **Team Number:** 1
   - **Technical Instructor:** **Ahmed Gamal**
-  - **Business:** [Karam Malaka](https://www.facebook.com/Karam.Malaka.IFFCO.Distribution.wholesale/)        
+  - **Business:** [Karam Malaka](https://www.facebook.com/Karam.Malaka.IFFCO.Distribution.wholesale/)
+
 - **Team Members:**
   - Abdullah Ibrahim Sayed
   - Merna Ahmed Ahmed
