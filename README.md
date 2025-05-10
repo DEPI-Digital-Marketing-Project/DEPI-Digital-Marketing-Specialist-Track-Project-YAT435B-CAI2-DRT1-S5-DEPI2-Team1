@@ -1,4 +1,4 @@
-# DEPI Round 2 Graduation Project
+# DEPI Round 2 - Digital Marketing Graduation Project
 # Project Files: https://drive.google.com/drive/folders/2L9HKkmin2Y7BuQZYTfU4aL0Aq2VW0g-g
 ## Project Info:
 
