@@ -10,7 +10,7 @@
   - **Technical Instructor:** **Ahmed Gamal**
   - **Business:** [Karam Malaka](https://www.facebook.com/Karam.Malaka.IFFCO.Distribution.wholesale/)
     
-- **Team Members:**
+  - **Team Members:**
   - Abdullah Ibrahim Sayed
   - Merna Ahmed Ahmed
   - Beshoy Karam Abdelmalak
