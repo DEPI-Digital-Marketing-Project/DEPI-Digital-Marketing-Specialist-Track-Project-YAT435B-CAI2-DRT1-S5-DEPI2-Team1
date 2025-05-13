@@ -1,4 +1,5 @@
 # DEPI Round 2 - Digital Marketing Graduation Project
+# Project Presentation: https://www.canva.com/design/DAGnPvPlktQ/CIq8FWyr-9pMeUL5yyt8KA/view?utm_content=DAGnPvPlktQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfd2d65f29f
 ## Project Info:
 
 - **DEPI Round 2 Graduation Project**
